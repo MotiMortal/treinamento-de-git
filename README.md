@@ -1,2 +1,0 @@
-# treinamento-de-git
-Alura 
